@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+# Raw Statcast caches and source exports normally stay outside this repo
+Statcast_*/
+MLB_GameLogs/
